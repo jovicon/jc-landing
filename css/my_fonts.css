@@ -1,0 +1,16 @@
+/* my fonts */
+
+@font-face
+{
+   font-family:"kellyslab";
+   src: url("../fonts/my_fonts/kellyslab.ttf");
+}
+
+@font-face
+{
+  font-family:"titilliumweb";
+  src: url("../fonts/my_fonts/titilliumweb.ttf");
+}
+
+
+/* end my fonts */
