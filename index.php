@@ -11,6 +11,9 @@
     <!-- resources: js -->
     <script type="text/javascript" src="rsrc/wow-master/dist/wow.min.js"></script>
 
+    <!-- my scripts: part 1 -->
+    <script type="text/javascript" src="js/wow_init.js"></script>
+
     <!-- my styles -->
     <link rel="stylesheet" href="css/reset.css">
     <link rel="stylesheet" href="css/my_fonts.css">
