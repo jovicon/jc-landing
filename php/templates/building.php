@@ -24,11 +24,11 @@
                     </a>
 
                     <p class="hero-text wow fadeInUp" data-wow-duration="2s" data-wow-delay="4s">
-                      <a href="https://api.whatsapp.com/api/send?phone=56972216367">+56972216367</a>
+                      <a href="https://api.whatsapp.com/send?phone=56972216367" target="_blank">+56972216367</a>
                     </p>
 
                     <p class="hero-text wow fadeInUp" data-wow-duration="2s" data-wow-delay="4.5s">
-                      <a href="https://github.com/jovicon">Github: Jovicon</a>
+                      <a href="https://github.com/jovicon" target="_blank">Github: Jovicon</a>
                     </p>
 
                   </div>
